@@ -15,4 +15,4 @@ def auto():
 
 @app.route('/ssh')
 def ssh():
-    return 'Hello from auto update with ssh'
+    return 'Hello from auto update with ssh v2'
