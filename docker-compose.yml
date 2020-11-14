@@ -1,7 +1,7 @@
-Adversion: '3.8'
+version: '3.3'
 
 services:
   flask_app:
     image: phamthihoa09/flask_app_example
     ports:
-    - 5000:5000
+    - 5522:5000
