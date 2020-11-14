@@ -15,4 +15,4 @@ def auto():
 
 @app.route('/phamthihoa')
 def phamthihoa():
-    return 'Hello from auto update with ssh v2'
+    return 'Hello from auto update with Pham Thi Hoa'
