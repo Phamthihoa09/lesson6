@@ -13,6 +13,6 @@ def v2():
 def auto():
     return 'Hello from auto update'
 
-@app.route('/ssh')
-def ssh():
+@app.route('/phamthihoa')
+def phamthihoa():
     return 'Hello from auto update with ssh v2'
